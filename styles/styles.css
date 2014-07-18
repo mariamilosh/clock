@@ -1,3 +1,11 @@
 body {
 	background: url(../images/clouds.jpg) no-repeat center center fixed;
+	text-align: center;
+
+}
+h1 {
+	margin-top: 100px;
+	font-size: 60px;
+	color: white;
+	text-shadow: 2px 2px 4px rgba(0,0,0,.5);
 }
